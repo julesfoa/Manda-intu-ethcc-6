@@ -3,11 +3,14 @@ Trading Infrastucture for DAOs
 
 
 Manda Swap System  
-Enable DAOs to trade anything with anyone.
+Team:
+Jules - julesfoa.eth - jules.foa@mandalabs.xyz
+Joseph - bouassaf.joseph.hans@gmail.com
+Rani - rani.abou@mandalabs.xyz
 
 
-Presentation:
-https://youtu.be/XVLXUbLK26Y
+**Presentation:
+**https://youtu.be/XVLXUbLK26Y
 
 **Github:**
 https://github.com/josephbouassaf/mandaexecution-frontend/tree/main
